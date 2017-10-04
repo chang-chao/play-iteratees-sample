@@ -1,0 +1,6 @@
+/.cache-main
+/.cache-tests
+/target
+/project/target
+/project/project
+/bin
